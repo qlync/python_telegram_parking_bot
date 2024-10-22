@@ -33,7 +33,18 @@
 ### Установка
 
 **Установите зависимости**
+
 pip install -r requirements.txt
+
+**Создайте бота**:
+
+Бот создается в телеграме. Перейдите по ссылке [BotFather] (https://t.me/BotFather) @BotFather.
+
+Скопируйте `API_TOKEN` созданного бота в `config.py`.
+
+Создайте кнопки для своего бота через команды BotFather:
+  - `start - Main Menu`
+  - `info - Information`
 
 **Настройте бота**:
 - API_TOKEN = 'PLACE_YOUR_API_TOKEN_HERE'
